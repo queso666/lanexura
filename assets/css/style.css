@@ -383,7 +383,7 @@ p {
   display: none;
 }
 
-@media (max-width: 1366px) {
+@media (max-width: 600px) {
   .navbar .dropdown .dropdown ul {
     left: -90%;
   }
@@ -409,7 +409,7 @@ p {
   color: #fff;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 600px) {
   .mobile-nav-toggle {
     display: block;
   }
